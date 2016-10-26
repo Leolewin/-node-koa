@@ -1,0 +1,27 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "description": "koa study",
+  "main": "koaApp.js",
+  "dependencies": {
+    "koa": "^1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "-t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leolewin/-node-koa.git"
+  },
+  "keywords": [
+    "koa",
+    "study"
+  ],
+  "author": "leolewin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leolewin/-node-koa/issues"
+  },
+  "homepage": "https://github.com/Leolewin/-node-koa#readme"
+}
